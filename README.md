@@ -56,3 +56,9 @@ window.onload=function(){
 ## Screenshot
 
 ![Calc screenshot](https://github.com/NFoithong/webdev-practise-calculator-js/issues/1#issue-1162395861)
+
+
+## Deploy
+
+Link: https://nfoithong.github.io/webdev-practise-calculator-js/
+GitHub: https://github.com/NFoithong/webdev-practise-calculator-js.git
