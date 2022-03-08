@@ -55,4 +55,4 @@ window.onload=function(){
 
 ## Screenshot
 
-![Calc screenshot](../calculatorjs/image/Screen%20Shot.png)
+![Calc screenshot](https://github.com/NFoithong/webdev-practise-calculator-js/issues/1#issue-1162395861)
