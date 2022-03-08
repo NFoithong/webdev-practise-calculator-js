@@ -55,4 +55,4 @@ window.onload=function(){
 
 ## Screenshot
 
-![Calc screenshot](/Users/Yaiko-Taber/Desktop/webdevpractise/calculatorjs/image/Screen Shot.png)
+![Calc screenshot](../calculatorjs/image/Screen%20Shot.png)
