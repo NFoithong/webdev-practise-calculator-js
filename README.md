@@ -40,3 +40,19 @@ Setup unique name repository on github and remote to local machine to work on pr
      font-family: <should any font>
  }
  ```
+
+ ## JavaScript
+
+It's not working without starting with window.onload function
+
+```
+window.onload=function(){
+    .....
+    write code here
+    .....
+}
+```
+
+## Screenshot
+
+![Calc screenshot](/Users/Yaiko-Taber/Desktop/webdevpractise/calculatorjs/image/Screen Shot.png)
